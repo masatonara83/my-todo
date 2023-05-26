@@ -1,4 +1,4 @@
-use axum::{extract::Extension, http::StatusCode, response::IntoResponse, Json, Router};
+use axum::{extract::Extension, http::StatusCode, response::IntoResponse, Json};
 
 use std::sync::Arc;
 
